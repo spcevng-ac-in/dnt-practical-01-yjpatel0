@@ -1,0 +1,4 @@
+D:\DotNet\sum\sum\bin\Debug\sum.exe
+D:\DotNet\sum\sum\bin\Debug\sum.pdb
+D:\DotNet\sum\sum\obj\x86\Debug\sum.exe
+D:\DotNet\sum\sum\obj\x86\Debug\sum.pdb
